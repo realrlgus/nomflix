@@ -18,6 +18,8 @@ export const moviesApi = {
   movieDetail: id =>
     api.get(`movie/${id}`, {
       params: {
+        api_key: "72bd8a884f26215e9f8e71bde34af65f",
+        language: "ko-KR",
         append_to_response: "videos"
       }
     }),
