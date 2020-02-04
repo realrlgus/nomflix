@@ -43,7 +43,7 @@ export default class extends React.Component {
         tvResults
       });
     } catch {
-      this.setState({ error: "Can't find resource" });
+      this.setState({ error: "Can't find results." });
     } finally {
       this.setState({ loading: false });
     }
