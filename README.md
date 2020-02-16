@@ -22,4 +22,5 @@ Learning React and ES6 by building a Movie Discovery App.
 
 # Preview:
 
-Try in on [netlify](https://elated-boyd-b85d07.netlify.com/#/search)
+Try in on [github pages](https://realrlgus.github.io/nomflix/)
+Try in on [netlify](https://elated-boyd-b85d07.netlify.com/)
