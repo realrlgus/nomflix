@@ -30,7 +30,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://realrlgus.github.io/nomflix",
+  "homepage": "https://elated-boyd-b85d07.netlify.com/",
   "browserslist": {
     "production": [
       ">0.2%",
